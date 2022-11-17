@@ -15,6 +15,8 @@ export default function Itanhaem() {
   
   }
 
+
+
   function limpar(){
     setDados("");
   } 
@@ -27,6 +29,8 @@ export default function Itanhaem() {
             width: '100%'
           }}source={image}>
     </ImageBackground>
+
+
 
       <View style={styles.header}>
       <Text style={styles.textoTitulo}>Previsão de 10 dias </Text>
