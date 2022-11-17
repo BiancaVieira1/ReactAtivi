@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tarefaNavigation",
-    "slug": "tarefaNavigation",
+    "name": "NavigationReact",
+    "slug": "NavigationReact",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
